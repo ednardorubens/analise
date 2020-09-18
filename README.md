@@ -45,8 +45,9 @@ O seguinte é um exemplo dos dados que o sistema deve ser capaz de ler.
 - Docker
 
 ## Pré requisitos para rodar aplicação
-- Docker
-- Maven
+- Docker 19.03.1 ou superior
+- Maven 3.6.3 ou superior
+- Java 13 ou superior
 
 ## Para rodar aplicação
 Acesse o diretório **/analise** via terminal e execute os comandos:
