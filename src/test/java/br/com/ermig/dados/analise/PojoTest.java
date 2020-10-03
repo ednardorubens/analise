@@ -1,14 +1,14 @@
-package br.com.dbc.dados.analise;
+package br.com.ermig.dados.analise;
 
 import java.util.List;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import br.com.dbc.dados.analise.model.Cliente;
-import br.com.dbc.dados.analise.model.Item;
-import br.com.dbc.dados.analise.model.Venda;
-import br.com.dbc.dados.analise.model.Vendedor;
+import br.com.ermig.dados.analise.model.Cliente;
+import br.com.ermig.dados.analise.model.Item;
+import br.com.ermig.dados.analise.model.Venda;
+import br.com.ermig.dados.analise.model.Vendedor;
 
 class PojoTest {
 

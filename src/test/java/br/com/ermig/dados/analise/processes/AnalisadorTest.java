@@ -1,4 +1,4 @@
-package br.com.dbc.dados.analise.processes;
+package br.com.ermig.dados.analise.processes;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -9,10 +9,10 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import br.com.dbc.dados.analise.model.Cliente;
-import br.com.dbc.dados.analise.model.Tipo;
-import br.com.dbc.dados.analise.model.Venda;
-import br.com.dbc.dados.analise.model.Vendedor;
+import br.com.ermig.dados.analise.model.Cliente;
+import br.com.ermig.dados.analise.model.Tipo;
+import br.com.ermig.dados.analise.model.Venda;
+import br.com.ermig.dados.analise.model.Vendedor;
 
 @SuppressWarnings("unchecked")
 class AnalisadorTest {

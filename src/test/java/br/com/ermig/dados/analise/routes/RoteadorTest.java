@@ -1,4 +1,4 @@
-package br.com.dbc.dados.analise.routes;
+package br.com.ermig.dados.analise.routes;
 
 import java.io.IOException;
 import java.nio.file.Files;

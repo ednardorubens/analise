@@ -1,4 +1,4 @@
-package br.com.dbc.dados.analise.processes;
+package br.com.ermig.dados.analise.processes;
 
 import java.util.Comparator;
 import java.util.List;
@@ -9,10 +9,10 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import br.com.dbc.dados.analise.model.Cliente;
-import br.com.dbc.dados.analise.model.Tipo;
-import br.com.dbc.dados.analise.model.Venda;
-import br.com.dbc.dados.analise.model.Vendedor;
+import br.com.ermig.dados.analise.model.Cliente;
+import br.com.ermig.dados.analise.model.Tipo;
+import br.com.ermig.dados.analise.model.Venda;
+import br.com.ermig.dados.analise.model.Vendedor;
 
 /**
  * Classe funcional de processamento dos dados
