@@ -1,4 +1,4 @@
-package br.com.dbc.dados.analise;
+package br.com.ermig.dados.analise;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.test.context.ActiveProfiles;

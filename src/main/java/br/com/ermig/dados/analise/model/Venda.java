@@ -1,4 +1,4 @@
-package br.com.dbc.dados.analise.model;
+package br.com.ermig.dados.analise.model;
 
 import java.util.Collections;
 import java.util.List;

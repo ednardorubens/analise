@@ -1,4 +1,4 @@
-package br.com.dbc.dados.analise.processes;
+package br.com.ermig.dados.analise.processes;
 
 import java.util.HashMap;
 import java.util.List;
@@ -8,7 +8,7 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import br.com.dbc.dados.analise.model.Tipo;
+import br.com.ermig.dados.analise.model.Tipo;
 
 /**
  * Classe de transformação e separação dos dados por tipos

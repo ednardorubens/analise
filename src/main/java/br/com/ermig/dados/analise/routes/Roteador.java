@@ -1,4 +1,4 @@
-package br.com.dbc.dados.analise.routes;
+package br.com.ermig.dados.analise.routes;
 
 import java.util.Map;
 
@@ -8,8 +8,8 @@ import org.apache.camel.builder.RouteBuilder;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
-import br.com.dbc.dados.analise.processes.Analisador;
-import br.com.dbc.dados.analise.processes.Extrator;
+import br.com.ermig.dados.analise.processes.Analisador;
+import br.com.ermig.dados.analise.processes.Extrator;
 
 @Component
 public class Roteador extends RouteBuilder {
